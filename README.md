@@ -118,7 +118,7 @@ eigenlayer operator config create
 - `signer type`: local_keystore
 - `ecdsa key path:`: /root/.eigenlayer/operator_keys/opr.ecdsa.key.json
 
-## 6. Setup Metadata dan Operator
+## 6. Setup Metadata and Operator
 
 ```
 nano metadata.json
@@ -145,15 +145,18 @@ eigenlayer operator status operator.yaml
 do file .env
 
 # Delete old files
+
 ```
 rm -rf .env
+```
 
 # Open Edit menu
+
 ```
 nano .env
 ```
 
-paste this in .env 
+## paste this in .env 
 
 fill your password `NODE_ECDSA_KEY_PASSWORD`
 
@@ -219,10 +222,13 @@ do **`docker-compose.yml` file**
 
 
 # Remove old file
+
 ```
 rm -rf docker-compose.yml
 ```
+
 # Open edit menu
+
 ```
 nano docker-compose.yml
 ```
