@@ -235,7 +235,7 @@ nano docker-compose.yml
 
 paste this in **`docker-compose.yml`**
 
-you can change the port if needed `portbaru:portlama`
+you can change the port if needed `8081:8081`
 
 ```
 services:
@@ -360,3 +360,5 @@ Check Operator Health
 ```
 curl -i localhost:8080/eigen/node/health
 ```
+Operator setup is complete, fill in this Google form and post your operator address to Discord
+https://docs.google.com/forms/d/e/1FAIpQLSd-ikaoIrOMd-L_pTvr8e-BIOTxQjkRh8ENGClyl7m1IFbqPQ/viewform
