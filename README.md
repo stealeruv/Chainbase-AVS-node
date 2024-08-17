@@ -27,13 +27,7 @@ Refferal code : 6T1FR6863
 
 ---
 
-Rekomendasi VPS untuk menjalankan node via Contabo.com:
-
-- [4 Core 6GB RAM 400GB SSD](https://www.jdoqocy.com/click-101228922-13796470?sid=VPS1)
-- [6 Core 16GB RAM 400GB SSD](https://www.tkqlhce.com/click-101228922-13796472?sid=VPS2)
-- [8 Core  24GB RAM 1200GB SSD](https://www.dpbolvw.net/click-101228922-13796474?sid=VPS3)
-
-Join our Telegram `@cryptoconsol`
+Join our Telegram [`@cryptoconsol`](https://t.me/cryptoconsol)
 
 ---
 
