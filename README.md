@@ -3,6 +3,12 @@ $15M chainbase AVS node setup guide
 
 # Chainbase Setup Operator Testnet
 
+X : https://x.com/ChainbaseHQ
+website : https://chainbase.com/
+Connect your wallet to genisis zircon points
+testnet : https://genesis.chainbase.com/referral?referral_code=6T1FR6863
+Refferal code : 6T1FR6863
+
 ---
 
 ### **System Requirement**
