@@ -7,7 +7,7 @@ X : https://x.com/ChainbaseHQ
 
 website : https://chainbase.com/
 
-Connect your wallet to genisis zircon points
+Connect your wallet to get genisis zircon points
 
 testnet : https://genesis.chainbase.com/referral?referral_code=6T1FR6863
 
