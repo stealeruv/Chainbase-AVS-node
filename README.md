@@ -28,7 +28,7 @@ Refferal code : 6T1FR6863
 ---
 
 Join our Telegram [`@cryptoconsol`](https://t.me/cryptoconsol)
-
+Follow twitter : https://x.com/cryptoconsol
 ---
 
 ## **1. Install Dependencies**
@@ -124,15 +124,21 @@ eigenlayer operator config create
 
 ## 6. Setup Metadata and Operator
 
+
 ```
 nano metadata.json
 ```
+Fill all the required data, check youtube video for reference
 
 ```
 nano operator.yaml
 ```
 
 ## **7. Run Node**
+
+Go to : https://cloud.google.com/application/web3/faucet/ethereum/holesky
+
+Paste the operator EVM address and get faucet.
 
 ```
 eigenlayer operator register operator.yaml
