@@ -170,7 +170,7 @@ nano .env
 
 fill your password `NODE_ECDSA_KEY_PASSWORD`
 
-```
+```bash
 # Chainbase AVS Image
 MAIN_SERVICE_IMAGE=repository.chainbase.com/network/chainbase-node:testnet-v0.1.7
 FLINK_TASKMANAGER_IMAGE=flink:latest
@@ -225,8 +225,8 @@ NODE_ECDSA_KEY_FILE_HOST=${EIGENLAYER_HOME}/operator_keys/opr.ecdsa.key.json
 # TODO: Operators need to add password to decrypt the above keys
 # If you have some special characters in password, make sure to use single quotes
 NODE_ECDSA_KEY_PASSWORD=xxx
-
 ```
+
 
 do **`docker-compose.yml` file**
 
