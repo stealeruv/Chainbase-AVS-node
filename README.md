@@ -245,8 +245,6 @@ nano docker-compose.yml
 
 paste this in **`docker-compose.yml`**
 
-you can change the port if needed `8081:8081`
-
 ```
 services:
   prometheus:
@@ -260,7 +258,7 @@ services:
       - "--enable-feature=expand-external-labels"
       - "--config.file=/etc/prometheus/prometheus.yml"
     ports:
-      - "9091:9090"
+      - "${NODE_PROMETHEUS_PORT}:9090"
     networks:
       - chainbase
     restart: unless-stopped
@@ -270,8 +268,6 @@ services:
     container_name: ${FLINK_JOBMANAGER_NAME}
     env_file:
       - .env
-    ports:
-      - "8081:8081"
     command: jobmanager
     networks:
       - chainbase
@@ -296,8 +292,8 @@ services:
     env_file:
       - .env
     ports:
-      - "8080:8080"
-      - "9092:9092" 
+      - "${NODE_APP_PORT}:${NODE_APP_PORT}"
+      - "${NODE_METRICS_PORT}:${NODE_METRICS_PORT}"
     volumes:
       - "${NODE_ECDSA_KEY_FILE_HOST:-./opr.ecdsa.key.json}:${NODE_ECDSA_KEY_FILE}"
       - "${NODE_LOG_PATH_HOST}:${NODE_LOG_DIR}:rw"
