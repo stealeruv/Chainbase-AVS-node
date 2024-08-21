@@ -31,6 +31,8 @@ Join our Telegram [`@cryptoconsol`](https://t.me/cryptoconsol)
 Follow twitter : https://x.com/cryptoconsol
 ---
 
+Youtube guide : https://www.youtube.com/watch?v=k6j7UMvTYq4
+
 ## **1. Install Dependencies**
 
 Update & Install Packages :
