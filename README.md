@@ -259,7 +259,7 @@ services:
       - .env
     volumes:
       - "${PROMETHEUS_CONFIG_PATH}:/etc/prometheus/prometheus.yml"
-    command: 
+    command:
       - "--enable-feature=expand-external-labels"
       - "--config.file=/etc/prometheus/prometheus.yml"
     ports:
