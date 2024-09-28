@@ -390,7 +390,7 @@ docker pull repository.chainbase.com/network/chainbase-node:v0.1.9
 ```
 ./chainbase-avs.sh stop
 ```
-### Edit .env file with latest version
+### Edit .env file with latest version with v0.1.9
 ```
 nano .env
 ```
