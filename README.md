@@ -376,7 +376,8 @@ Operator setup is complete, fill in this Google form and post your operator addr
 https://docs.google.com/forms/d/e/1FAIpQLSd-ikaoIrOMd-L_pTvr8e-BIOTxQjkRh8ENGClyl7m1IFbqPQ/viewform
 
 
---
+---------------------------------------------------------------------------------------------------------------------------
+
 ## Update Node
 ```
 cd chainbase-avs-setup/holesky
