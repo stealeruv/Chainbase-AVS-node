@@ -382,12 +382,22 @@ https://docs.google.com/forms/d/e/1FAIpQLSd-ikaoIrOMd-L_pTvr8e-BIOTxQjkRh8ENGCly
 ```
 cd chainbase-avs-setup/holesky
 ```
+### pull latest version
 ```
 docker pull repository.chainbase.com/network/chainbase-node:v0.1.9
+```
+### Stop Operator
+```
+./chainbase-avs.sh stop
 ```
 ### Edit .env file with latest version
 ```
 nano .env
 ```
+### Start Operator
+```
+./chainbase-avs.sh run
+```
+
 
 
