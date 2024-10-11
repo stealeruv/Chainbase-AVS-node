@@ -174,7 +174,7 @@ fill your password `NODE_ECDSA_KEY_PASSWORD`
 
 ```bash
 # Chainbase AVS Image
-MAIN_SERVICE_IMAGE=repository.chainbase.com/network/chainbase-node:testnet-v0.1.7
+MAIN_SERVICE_IMAGE=repository.chainbase.com/network/chainbase-node:v0.1.9
 FLINK_TASKMANAGER_IMAGE=flink:latest
 FLINK_JOBMANAGER_IMAGE=flink:latest
 PROMETHEUS_IMAGE=prom/prometheus:latest
