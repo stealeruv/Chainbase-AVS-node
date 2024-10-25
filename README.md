@@ -132,6 +132,7 @@ cd chainbase-avs-setup/holesky
 
 ```
 eigenlayer operator keys create --key-type ecdsa opr
+eigenlayer operator keys create --key-type bls opr
 ```
 
 ## **5. Config & Register Operator**
