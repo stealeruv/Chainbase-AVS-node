@@ -76,7 +76,7 @@ chmod +x ./chainbase-avs.sh
 
 ## Operating the Chainbase AVS
 
-Register as an Operator (old users can skip)
+Register as an Operator
 
 ```
 ./chainbase-avs.sh register
