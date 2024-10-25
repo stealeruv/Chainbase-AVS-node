@@ -27,11 +27,34 @@ Refferal code : 6T1FR6863
 
 ---
 
-Join our Telegram [`@cryptoconsol`](https://t.me/cryptoconsol)
-Follow twitter : https://x.com/cryptoconsol
+# Join Crypto Console Community
+
+Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
+
+Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) 
+
+Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
+
+
 ---
 
+# VPS Options
+
+Credit Card/Paypal/crypto credit card : 
+
+VPS 1 : [Contabo: Cloud VPS 1](https://www.jdoqocy.com/click-101278318-15692486) 
+
+VPS 2 : [Contabo: Cloud VPS 2](https://www.tkqlhce.com/click-101278318-13796472)
+
+VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
+
+VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-13796476)
+
+
+
 Youtube guide : https://www.youtube.com/watch?v=k6j7UMvTYq4
+
+
 
 ## **1. Install Dependencies**
 
