@@ -56,9 +56,9 @@ git clone https://github.com/chainbase-labs/chainbase-avs-setup && cd chainbase-
 cp .env.example .env
 ```
 ###  Edit the env
-
+```
 nano .env
-
+```
 ```
 NODE_ECDSA_KEY_FILE_PATH=/root/.eigenlayer/operator_keys/opr.ecdsa.key.json
 NODE_BLS_KEY_FILE_PATH=/root/.eigenlayer/operator_keys/opr.bls.key.json
